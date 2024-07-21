@@ -1,6 +1,6 @@
 #include <iostream>
-#include "tree.hpp"
-#include "complex.hpp"
+#include "Tree.hpp"
+#include "Complex.hpp"
 
 using namespace std;
 using namespace ariel;

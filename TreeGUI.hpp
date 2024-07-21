@@ -1,7 +1,7 @@
 #ifndef TREEGUI_H
 #define TREEGUI_H
 
-#include "treeNode.hpp"  
+#include "TreeNode.hpp"  
 using namespace ariel;
 
 #include <SDL2/SDL.h>    // SDL2 library for graphics

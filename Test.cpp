@@ -3,8 +3,8 @@
 
 #include "doctest.h"
 #include <string>
-#include "tree.hpp"
-#include "complex.hpp"
+#include "Tree.hpp"
+#include "Complex.hpp"
 #include <iostream>
 
 using namespace std;
